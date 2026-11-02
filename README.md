@@ -13,7 +13,7 @@ learning new languages and bringing ideas to life through code.
 
 <br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-kc__pandawan-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-apsa__panda-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
 🙌 About Me
@@ -69,9 +69,9 @@ Tools & Environment
 
 💬 Have a question about one of my projects? Feel free to ask!
 
-📧 Email: vincentreix54@gmail.com
+📧 Email: vincent.reix@proton.me
 
-🎮 Discord: @kc_pandawan
+🎮 Discord: @apsa_panda
 
 🐙 GitHub: @ZePandawan
 
