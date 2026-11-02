@@ -17,20 +17,25 @@ learning new languages and bringing ideas to life through code.
 
 </div>
 🙌 About Me
+
 ```yaml
 name: Vincent Reix
 username: ZePandawan
 location: France 🇫🇷
+
 currently_learning:
-  - Java
-  - JavaScript
-  - Python
+  - Java ☕
+  - JavaScript ⚡
+  - Python 🐍
+
 interests:
   - Software Development
   - Programming
   - Exploring New Technologies
+
 motto: "Never stop learning."
 ```
+
 
 ⚡ Tech Stack & Learning
 
